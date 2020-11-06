@@ -13,5 +13,5 @@
 * [Roles and Responsibilities](https://github.com/The-Post-its/Activity-3/blob/bd2cfb3041b801b5b11cec992716ef533a06528b/Updated%20Docs/Project%20Roles%20and%20Responsibilities%20FINAL.pdf)
 * [Project Scope Statement](https://github.com/The-Post-its/Activity-3/blob/bd2cfb3041b801b5b11cec992716ef533a06528b/Updated%20Docs/Project%20Scope%20Statement%20FINALv2.pdf)
 
-## Miscellaneous 
+## Vlog 
 * [Vlog Youtube Link](https://youtu.be/_aX5b9zQ4N4)
