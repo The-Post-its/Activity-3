@@ -1,6 +1,6 @@
 # Activity-3
 
-## Project Design Diagram
+## Project Design Diagrams
 * [Class Diagram](https://github.com/The-Post-its/Activity-3/blob/bd2cfb3041b801b5b11cec992716ef533a06528b/FINAL/Class%20Diagram.pdf)
 * [Lo-Fi GUI Sketches](https://github.com/The-Post-its/Activity-3/blob/bd2cfb3041b801b5b11cec992716ef533a06528b/FINAL/Lo-Fidelity%20Graphical%20User%20Interface%20Sketches.pdf)
 * [MVC Architecture Diagram](https://github.com/The-Post-its/Activity-3/blob/bd2cfb3041b801b5b11cec992716ef533a06528b/FINAL/MVC%20Architecture%20Diagram.pdf)
